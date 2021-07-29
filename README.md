@@ -1,5 +1,5 @@
 # UDP-transfer
-Demo de tranferencia de archivos udp.
+Demo de tranferencia de archivos png.
 
 Cliente - Servidor
 
